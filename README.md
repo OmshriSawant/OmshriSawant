@@ -58,25 +58,6 @@
 <br>
 <ul>
 <li>
-<p><strong>Extras</strong>:</p>
-<p><img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Terminal">
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown"></p>
-</li>
-</ul>
-<p></p>
-<br>
-<br>
-<hr>
-
-<div align="center">
-
-</div>
-<br>
-<br>
-<br>
-<hr>
-<br>
-<br>
 <h2 id="-lets-connect"><b> Let’s Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
 <br>
 <div align="left">
