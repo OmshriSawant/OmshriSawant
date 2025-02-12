@@ -1,7 +1,8 @@
-  <h1 align="center"><b>Hi , I'm Omshri Pundlik Sawant </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
+<h1 align="center"><b>Hi , I'm Omshri Pundlik Sawant </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Assalamu+O+Alaikum+Warahmatullah..♥++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com??font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello,+I'm+Omshri+Sawant!;Passionate+about+Network+Security;Cybersecurity+Enthusiast;SOC+Analysis;Active+Learner/Quick+Learner;Always+learning+and+securing!<3"></a>
 </p>
 <br>
 <h2 id="-about-me"><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> <strong>About me</strong></h2>
