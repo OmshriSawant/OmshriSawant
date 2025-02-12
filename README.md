@@ -27,8 +27,6 @@
 <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"></p>
 </li>
 </ul>
-<br>   
-<ul>
 <li>
 <p><strong>Front-End Development</strong>:</p>
 <p><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
@@ -36,14 +34,14 @@
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"></p>
 </li>
 </ul>
-<br>
+
 <ul>
 <li>
 <p><strong>Cloud Hosting</strong>:</p>
 <p><img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github Pages"></p>
 </li>
 </ul>
-<br>
+
 <ul>
 <li>
 <p><strong>Softwares and Tools</strong>:</p>
@@ -54,7 +52,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"></p>
 </li>
 </ul>
-<br>
+
 <ul>
 <li>
 <h2 id="-lets-connect"><b> Let’s Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
