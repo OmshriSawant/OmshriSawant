@@ -1,4 +1,4 @@
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
+  <img src="https://github.com/OmshriSawant/OmshriSawant/blob/main/OPPS%20Banner.jpeg">
 <h1 align="center"><b>Hi , I'm Omshri Pundlik Sawant </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
