@@ -5,17 +5,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com??font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello,+I'm+Omshri+Sawant!;Passionate+about+Network+Security;Cybersecurity+Enthusiast;SOC+Analysis;Active+Learner/Quick+Learner;Always+learning+and+securing!<3"></a>
 </p>
 <br>
-<h2 id="-about-me"><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> <strong>About me</strong></h2>
+<h2 id="-about-me"><strong>👩‍💻 About me</strong></h2>
 <p><picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture></p>
 <br>
 <ul>
 <li>Passionate about Cyber security, SOC Analyst</li>
 <li>Playing CTF’s at spare time</li>
 <li>Currently learning SIEM Tool - Qradar by Self</li>
-<li>Personal website <a href="https://www.0xabdulkhalid.ml">link</a></li>
+<li>Personal website <a href="">link</a></li>
 <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://github.com/OmshriSawant/OmshriSawant/blob/main/Resume_Omshri%20Pundlik%20Sawant.pdf">my resume</a></li>
 </ul>
-
+<br>   
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 <br>
 <p align="center">
@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"></p>
 </li>
 </ul>
+<br> 
+<ul>
 <li>
 <p><strong>Front-End Development</strong>:</p>
 <p><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
@@ -34,14 +36,14 @@
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"></p>
 </li>
 </ul>
-
+<br>   
 <ul>
 <li>
 <p><strong>Cloud Hosting</strong>:</p>
 <p><img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github Pages"></p>
 </li>
 </ul>
-
+<br>   
 <ul>
 <li>
 <p><strong>Softwares and Tools</strong>:</p>
@@ -52,28 +54,28 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"></p>
 </li>
 </ul>
-
+<br>   
 <ul>
 <li>
-<h2 id="-lets-connect"><b> Let’s Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
+<h2 id="-lets-connect"><b>Let’s Connect..!</b></h2>
 <br>
 <div align="left">
 <ul>
 <li>
 <a href="https://www.linkedin.com/in/omshrisawant/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
+<img src="https://img.shields.io/badge/linkedin:  opps-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
 </a>
 </li>
 <br>
 <li>
 <a href="https://x.com/OmshriSawant?t=bke-SuamBEDkozcHYouXCw&amp;s=08" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
+<img src="https://img.shields.io/badge/twitter:  opps-%2300acee.svg?color=1DA1F2&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
 </a>
 </li>
 <br>
 <li>
 <a href="mailto:omshrisawant@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" t="mail" style="margin-bottom: 5px;">
+<img src="https://img.shields.io/badge/gmail:  opps-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" t="mail" style="margin-bottom: 5px;">
 </a>
 </li>
 </ul>
