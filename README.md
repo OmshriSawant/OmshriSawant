@@ -13,7 +13,7 @@
 <li>Playing CTF’s at spare time</li>
 <li>Currently learning SIEM Tool - Qradar by Self</li>
 <li>Personal website <a href="https://www.0xabdulkhalid.ml">link</a></li>
-<li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://read.cv/0xabdulkhalid">my resume</a></li>
+<li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://github.com/OmshriSawant/OmshriSawant/blob/main/Resume_Omshri%20Pundlik%20Sawant.pdf">my resume</a></li>
 </ul>
 <p><br><br></p>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
